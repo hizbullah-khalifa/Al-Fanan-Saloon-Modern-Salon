@@ -3,6 +3,7 @@ import { animate, useInView } from "framer-motion";
 import { Award, Scissors, Star, Users } from "lucide-react";
 import SectionHeading from "./SectionHeading";
 import { STATS } from "../data/content";
+import aboutImage from "../assets/about.png";
 
 const ICONS = {
   award: Award,
@@ -51,7 +52,7 @@ export default function About() {
           <div className="relative">
             <div className="overflow-hidden rounded-3xl shadow-2xl shadow-black/20">
               <img
-                src="https://images.unsplash.com/photo-1521590832167-7bcbfaa6381f?q=80&w=1200&auto=format&fit=crop"
+                src={aboutImage}
                 alt="Inside the Al Fanan Saloon"
                 className="aspect-[4/3] w-full object-cover transition-transform duration-700 hover:scale-105"
                 loading="lazy"

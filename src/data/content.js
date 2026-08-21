@@ -1,11 +1,11 @@
 export const CONTACT = {
-  whatsappNumber: "97123456789", // Dubai number, no +, no spaces
-  phone: "+971 12 34 56789",
+  whatsappNumber: "97123456789", // Ras Al Khaimah number, no +, no spaces
+  phone: "+971 7 234 5678",
   email: "hello@alfanan.com",
-  address: "Ras Al Khaimah, Dubai, UAE",
+  address: "Al Fanan Saloon, Al Nakheel, Ras Al Khaimah, UAE",
   mapEmbed:
-    "https://www.google.com/maps?q=Trade%20Centre%20Dubai&output=embed",
-  mapsLink: "https://maps.google.com/?q=Trade+Centre+Dubai",
+    "https://www.google.com/maps?q=Ras%20Al%20Khaimah%20UAE&output=embed",
+  mapsLink: "https://maps.google.com/?q=Ras+Al+Khaimah+UAE",
 };
 
 export const WHATSAPP_LINK = `https://wa.me/${CONTACT.whatsappNumber}`;
@@ -72,7 +72,7 @@ export const GALLERY = [
     tall: true,
   },
   {
-    src: "https://images.unsplash.com/photo-1517836357463-d25dfeac3438?q=80&w=1200&auto=format&fit=crop",
+    src: "https://plus.unsplash.com/premium_photo-1661645788141-8196a45fb483?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MXx8YmFyYmVyc2hvcHxlbnwwfHwwfHx8MA%3D%3D",
     alt: "Man getting a fade haircut",
   },
   {
@@ -80,16 +80,28 @@ export const GALLERY = [
     alt: "Barber at work",
   },
   {
-    src: "https://images.unsplash.com/photo-1622286342621-4bd786c2447c?q=80&w=1200&auto=format&fit=crop",
+    src: "https://images.unsplash.com/photo-1672642150228-3fcd5826ec26?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NDR8fGJhcmJlcnNob3B8ZW58MHx8MHx8fDA%3D",
     alt: "Beard trim with straight razor",
     tall: true,
   },
   {
-    src: "https://images.unsplash.com/photo-1599351431202-1e0f0137899a?q=80&w=1200&auto=format&fit=crop",
+    src: "https://plus.unsplash.com/premium_photo-1661493935776-a76a3e33dddf?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NTN8fGJhcmJlcnNob3B8ZW58MHx8MHx8fDA%3D",
     alt: "Barber tools and scissors",
   },
   {
-    src: "https://images.unsplash.com/photo-1605497788044-5a32c7078486?q=80&w=1200&auto=format&fit=crop",
+    src: "https://images.unsplash.com/photo-1599011176306-4a96f1516d4d?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MzR8fGJhcmJlcnNob3B8ZW58MHx8MHx8fDA%3D",
+    alt: "Precision clipper work",
+  },
+  {
+    src: "https://images.unsplash.com/photo-1598524374912-6b0b0bab43dd?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NHx8YmFyYmVyc2hvcCUyMGhhaXJ8ZW58MHx8MHx8fDA%3D",
+    alt: "Precision clipper work",
+  },
+  {
+    src: "https://images.unsplash.com/photo-1718364673885-efc964e1b2cd?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8M3x8YmFyYmVyc2hvcCUyMGhhaXIlMjBkdWJhaXxlbnwwfHwwfHx8MA%3D%3D",
+    alt: "Precision clipper work",
+  },
+  {
+    src: "https://images.unsplash.com/photo-1647140655214-e4a2d914971f?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NHx8YmFyYmVyc2hvcCUyMGJlYXJkfGVufDB8fDB8fHww",
     alt: "Precision clipper work",
   },
 ];
