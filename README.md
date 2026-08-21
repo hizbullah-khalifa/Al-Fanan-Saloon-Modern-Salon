@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Al Fanan Saloon 💇‍♂️✨
 
 A modern, responsive, and elegant salon website built with **React.js and Vite** for **Al Fanan Saloon**.
@@ -65,3 +66,7 @@ This project is created for **Al Fanan Saloon** and is intended for professional
 ---
 
 ⭐ If you like this project, consider giving the repository a star!
+=======
+# Al-Fanan-Saloon-Modern-Salon
+A modern and responsive salon website for Al Fanan Saloon, designed to showcase salon services, beauty treatments, pricing, and contact information with a clean, attractive, and user-friendly interface. Built with modern web technologies and optimized for a smooth experience across desktop and mobile devices.
+>>>>>>> d91d3959bab98175d992dbfb89873de14a29184f
